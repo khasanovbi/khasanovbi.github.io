@@ -10,7 +10,7 @@
 
 ### Education
 
-* General: 
+* General:
   * higher education, MSTU n.a. N.E. Bauman (2008-2014) Specialty - Metrology and metrological support. GPA - 5.0.
 * Additional: 
   * [Technopark@mail.ru](https://park.mail.ru). Educational program - System architect. Speciality - Web-development. [Diploma № CA16-32 (2014-2016)](https://park.mail.ru/alumni/17/780/)
@@ -26,7 +26,8 @@
 * BitBucket: [https://bitbucket.org/BrainBot](https://bitbucket.org/BrainBot)
 
 ### Jobs
-* Rambler&Co, Python-developer, from December 2015 to the current time
+* Rambler&Co, Python-developer, from December 2015 to December 2016
+* Yandex, Software developer, from December 2016 to the current time
 
 ### Technologies
 
@@ -45,6 +46,8 @@ Use Python to write automation scripts.
 For example: python bot for Twitter to participate in contests, the idea is taken from [http://geektimes.ru/post/259764/](http://geektimes.ru/post/259764/). Link to account: [https://twitter.com/science__cat](https://twitter.com/science__cat). Or, for example, for parsing of sites](https://github.com/YetAnotherTeam/jatumba-content-loader).
 
 Used in the following Django - application: Rest Framework, Guardian, Reversion, Channels, Sphinx, Extensions, Grappelli and others.
+
+Work with tornado, aiohttp.
 
 Certificates:
 
@@ -90,6 +93,18 @@ For building projects used:
 ---
 
 #### Java
+Technologies used:
+
+* Hibernate
+* Jetty
+* Java NIO
+* Log4j
+* Dyn4j
+
+Code examples:
+
+* [flash - server to return static files using Java NIO](https://github.com/KhasanovBI/flash)
+
 Wrote a multiplayer online shooter with Jetty and physics engine dyn4j.
 
 A prototype of the game: [http://doubledanger.tp-dev.ru](http://doubledanger.tp-dev.ru)
@@ -117,5 +132,11 @@ Certificates:
 
 * [stepic.org](https://stepic.org): [Programming in C++](https://stepic.org/certificate/d865d2188cde8476485671da43fd87eab0ffdb98.pdf)
 * [Open courses Technopark@mail.ru](https://park.mail.ru/alumni/open-courses/): [Preparatory program for programming in C/C++](https://park.mail.ru/alumni/open-courses/)
+
+---
+
+#### DevOps
+* Ansible
+* Docker
 
 ---

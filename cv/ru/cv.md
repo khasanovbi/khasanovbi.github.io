@@ -10,9 +10,9 @@
 
 ### Образование
 
-* Основное: 
+* Основное:
   * высшее, МГТУ им. Н.Э. Баумана (2008-2014) Специальность - Метрология и метрологическое обеспечение. Средний балл - 5.0.
-* Дополнительное: 
+* Дополнительное:
   * [Технопарк@mail.ru](https://park.mail.ru). Программа обучения - Системный архитектор. Специализация - Веб-разработка. [Диплом № CA16-32 (2014-2016)](https://park.mail.ru/alumni/17/780/)
 * Сертификаты:
   * [stepic.org](https://stepic.org): [Алгоритмы и структуры данных](https://stepic.org/certificate/7c794e67cd9ec0eddc974b94f7ac2d3b2a458bca.pdf)
@@ -26,7 +26,8 @@
 * BitBucket: [https://bitbucket.org/BrainBot](https://bitbucket.org/BrainBot)
 
 ### Места работы
-* Rambler&Co, инженер-разработчик Python, с декабря 2015 по текущее время
+* Rambler&Co, инженер-разработчик Python, с декабря 2015 по декабрь 2016
+* Yandex, разработчик ПО, с декабря 2016 по настоящее время
 
 ### Технологии
 
@@ -46,6 +47,8 @@
 
 Использовал в работе следующий Django - приложения: Rest Framework, Guardian, Reversion, Channels, Sphinx, Extensions, Grappelli и др.
 
+Работал с tornado, aiohttp.
+
 Cертификаты:
 
 * [certification.mail.ru](https://certification.mail.ru/): [Тестирование на знание Python](https://certification.mail.ru/certificates/583b17c6-581c-46df-8247-df7dd4fdbca6/)
@@ -61,7 +64,7 @@ Cертификаты:
   * [Совместимость с Django 1.10+](https://github.com/etianen/django-reversion/pull/574)
 
 ######Собственные библиотеки
-* [Rest channels](https://github.com/KhasanovBI/rest_channels) - приложение для взаимодействия Django Channels и Django Rest Framework. 
+* [Rest channels](https://github.com/KhasanovBI/rest_channels) - приложение для взаимодействия Django Channels и Django Rest Framework.
 
 ---
 
@@ -90,6 +93,18 @@ Cертификаты:
 ---
 
 #### Java
+Из технологий использовал:
+
+* Hibernate
+* Jetty
+* Java NIO
+* Log4j
+* Dyn4j
+
+Примеры кода:
+
+* [flash - сервер для отдачи статики с использованием Java NIO](https://github.com/KhasanovBI/flash)
+
 Написал многопользовательский онлайн шутер с использованием Jetty и физического движка dyn4j.
 
 Прототип игры: [http://doubledanger.tp-dev.ru](http://doubledanger.tp-dev.ru)
@@ -117,5 +132,11 @@ Cертификаты:
 
 * [stepic.org](https://stepic.org): [Программирование на языке C++](https://stepic.org/certificate/d865d2188cde8476485671da43fd87eab0ffdb98.pdf)
 * [Открытые курсы Технопарк@mail.ru](https://park.mail.ru/alumni/open-courses/): [Подготовительная программа по программированию на С/C++](https://park.mail.ru/alumni/open-courses/)
+
+---
+
+#### DevOps
+* Ansible
+* Docker
 
 ---
